@@ -53,6 +53,7 @@ Execute the program using runserver command.
 <td>-</td>
 <td>GAME DEVELOPMENT</td>
 <td>-</td>
+
 </tr>
 <tr align="center">
 <th bgcolor="yellow">10-12</th>
@@ -84,6 +85,8 @@ Execute the program using runserver command.
 <td>-</td>
 <td>WEB APLLICATION</td>
 <td>-</td>
+
+
 </tr>
 </table>
 <br>
@@ -132,6 +135,7 @@ Execute the program using runserver command.
 <td align="center">19CS405</td>
 <td>OPERATING SYSTEM</td>
 </tr>
+
 </tr>
 </tr>
 </tr>
